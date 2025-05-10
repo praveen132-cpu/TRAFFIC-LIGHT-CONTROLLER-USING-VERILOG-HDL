@@ -140,22 +140,29 @@ at those areas. Therefore, it is a primary purpose to have such facility in orde
 
 The future scope of an advanced traffic light controller is evolving with the integration of smart city technologies, IoT, and AI. These advancements aim to improve the efficiency, safety, and environmental sustainability of urban traffic systems. Below are some of the key areas in which future developments could transform the traffic light controller systems:
 1.	Integration with Smart City Infrastructure
+
 •Urban Traffic Optimization: Traffic light controllers will become more integrated with smart city infrastructure, where all systems (like street lights, surveillance cameras, and public transportation) communicate and collaborate to optimize traffic flow.
-•	Centralized Traffic Management: Cities will employ centralized systems that can control multiple intersections simultaneously. These systems could adjust traffic light timings based on real-time traffic data, road closures, accidents, or congestion patterns to optimize flow.
+
+•Centralized Traffic Management: Cities will employ centralized systems that can control multiple intersections simultaneously. These systems could adjust traffic light timings based on real-time traffic data, road closures, accidents, or congestion patterns to optimize flow.
 
 2.	Adaptive Traffic Signal Control
-•	AI-Powered Adaptive Signals: Future traffic controllers will use artificial intelligence (AI) and machine learning (ML) to dynamically adjust signal timings based on real-time traffic data. AI can predict traffic conditions and adjust the green-light duration accordingly.
-o	Example: In case of sudden traffic congestion or a major event, the traffic lights could automatically adjust to prioritize certain routes or lanes.
-•	Real-Time Data Integration: Advanced systems will gather data from smart sensors, traffic cameras, GPS systems in vehicles, and traffic reports to adapt signals based on traffic volumes and patterns.
+
+•AI-Powered Adaptive Signals: Future traffic controllers will use artificial intelligence (AI) and machine learning (ML) to dynamically adjust signal timings based on real-time traffic data. AI can predict traffic conditions and adjust the green-light duration accordingly.
+
+
+•Real-Time Data Integration: Advanced systems will gather data from smart sensors, traffic cameras, GPS systems in vehicles, and traffic reports to adapt signals based on traffic volumes and patterns.
 
 3.	Vehicle-to-Infrastructure (V2I) Communication
-•	Vehicle-to-Infrastructure Communication: Future traffic light controllers will communicate directly with vehicles using Vehicle-to-Everything (V2X) technology. This could allow vehicles to communicate with traffic signals, receiving updates on signal changes and real-time traffic conditions.
-o	Benefits: Improved traffic flow, reduction in fuel consumption, and optimized traffic light sequences based on vehicle density.
-•	Red Light Prediction: Vehicles could communicate with the traffic light controllers to predict the signal changes ahead of time, allowing for better acceleration and deceleration planning, improving fuel efficiency.
+
+•Vehicle-to-Infrastructure Communication: Future traffic light controllers will communicate directly with vehicles using Vehicle-to-Everything (V2X) technology. This could allow vehicles to communicate with traffic signals, receiving updates on signal changes and real-time traffic conditions.
+
+•Red Light Prediction: Vehicles could communicate with the traffic light controllers to predict the signal changes ahead of time, allowing for better acceleration and deceleration planning, improving fuel efficiency.
 
 4.	Pedestrian and Cyclist Priority
-•	Smart Pedestrian Crossing: Future controllers will incorporate features for pedestrian prioritization. Sensors could detect pedestrians approaching intersections, and traffic signals could adjust to give priority to pedestrians without requiring them to push a button.
-•	Cyclist Detection: Smart controllers will also be able to detect cyclists and prioritize their crossing times. Bike lanes will become integral to traffic light control systems, ensuring cyclists' safety and smooth flow.
+
+•Smart Pedestrian Crossing: Future controllers will incorporate features for pedestrian prioritization. Sensors could detect pedestrians approaching intersections, and traffic signals could adjust to give priority to pedestrians without requiring them to push a button.
+
+•Cyclist Detection: Smart controllers will also be able to detect cyclists and prioritize their crossing times. Bike lanes will become integral to traffic light control systems, ensuring cyclists' safety and smooth flow.
 
 ## References
 
