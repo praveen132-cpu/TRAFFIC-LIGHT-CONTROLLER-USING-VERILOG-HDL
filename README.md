@@ -9,10 +9,11 @@
     - [Problem Statement](#problem-statement)
     - [State Diagram](#state-diagram)
     - [State Table](#state-table)
-3. [RTL Code](#rtl-code)
-    - [RTL Schematic View](#rtl-schematic-view)
-4. [TESTBENCH](#testbench)
-5. [Output Waveforms](#output-waveforms)
+3. [RTL Schematic ](#rtl-schematic)
+4. [Gate Level Schematic ](#gate-level-schematic)
+5. [Utilisation Report](#Utilisation-Report)
+6. [Power Report](#Power-Report)
+5. [Simulation Result](#Simulation-Result)
 6. [Result](#result)
 7. [Future work](#future-work)
 8. [References](#references)
@@ -114,7 +115,7 @@ ST = State Transition; A, B and C are considered as the present state.
 
 ## Simulation Result
 
-![Simulation Result]([https://user-images.githubusercontent.com/83152452/131370429-58f902d3-c104-45b5-95d6-1ca116aad0b2.jpeg](https://github.com/praveen132-cpu/TRAFFIC-LIGHT-CONTROLLER-USING-VERILOG-HDL/blob/main/simulation%20result.jpg?raw=true))
+![Simulation Result](https://github.com/praveen132-cpu/TRAFFIC-LIGHT-CONTROLLER-USING-VERILOG-HDL/blob/main/simulation%20result.jpg?raw=true))
 
 
 ## Result
