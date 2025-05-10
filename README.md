@@ -1,5 +1,5 @@
 # Traffic Light Controller Using Verilog
-* The purpose of this project is to design a methodology using Verilog to control the traffic with specified time delays for a T-Shaped road.*
+* The purpose of this project is to design a methodology using Verilog to control the traffic with specified time delays for a T-Shaped road.
 
 # Table of Contents
 
