@@ -140,7 +140,7 @@ at those areas. Therefore, it is a primary purpose to have such facility in orde
 
 The future scope of an advanced traffic light controller is evolving with the integration of smart city technologies, IoT, and AI. These advancements aim to improve the efficiency, safety, and environmental sustainability of urban traffic systems. Below are some of the key areas in which future developments could transform the traffic light controller systems:
 1.	Integration with Smart City Infrastructure
-•	Urban Traffic Optimization: Traffic light controllers will become more integrated with smart city infrastructure, where all systems (like street lights, surveillance cameras, and public transportation) communicate and collaborate to optimize traffic flow.
+•Urban Traffic Optimization: Traffic light controllers will become more integrated with smart city infrastructure, where all systems (like street lights, surveillance cameras, and public transportation) communicate and collaborate to optimize traffic flow.
 •	Centralized Traffic Management: Cities will employ centralized systems that can control multiple intersections simultaneously. These systems could adjust traffic light timings based on real-time traffic data, road closures, accidents, or congestion patterns to optimize flow.
 
 2.	Adaptive Traffic Signal Control
@@ -185,8 +185,7 @@ Y. (2024). Channel Estimation for FAS-Assisted Multiuser mmWave Systems. IEEE Co
 
 ## Author
 
-- [kambham praveen kumar reddy](https://github.com/praveen132-cpu), Bachelor of Engineering in Electronics and Communication Engineering, st.peter
-- 's engineering college,hyderabad
+- [kambham praveen kumar reddy](https://github.com/praveen132-cpu), Bachelor of Engineering in Electronics and Communication Engineering, st.peter's engineering college
 
     
 
