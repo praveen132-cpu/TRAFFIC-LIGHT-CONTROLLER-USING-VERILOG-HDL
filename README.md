@@ -115,7 +115,7 @@ ST = State Transition; A, B and C are considered as the present state.
 
 ## Simulation Result
 
-![Simulation Result](https://github.com/praveen132-cpu/TRAFFIC-LIGHT-CONTROLLER-USING-VERILOG-HDL/blob/main/simulation%20result.jpg?raw=true))
+![Simulation Result](https://github.com/praveen132-cpu/TRAFFIC-LIGHT-CONTROLLER-USING-VERILOG-HDL/blob/main/simulation%20result.jpg?raw=true)
 
 
 ## Result
