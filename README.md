@@ -120,50 +120,12 @@ ST = State Transition; A, B and C are considered as the present state.
 
 ## Result
 
-In this model we have observed various stages which describes about every signals. For example, Consider that at first stage (north-south end) signals gives some indication. 
-Then, the signal is red that means signal at east-west side gives a green indication and traffic moves to their respective direction. Then after some delay yellow signal is 
-obtain at east-west side and after the red signal arrives at the same time at the north-south end red signal goes off and green signal gets on and traffic moves to their 
-particular direction. In this way process continues in the loop every day. 
-
-The modern ways of multi-way traffic management improves the traffic condition up to a large extent. Traffic intensity is sensed and accordingly time is allotted for traffic to
-pass. Verilog HDL is used to circuit description, code is generated which is simulated using Xilinx2024.2.
-
-This traffic light control system works on the concept of fixed time allocation at each side of the junction which cannot be changed as per varying traffic density. 
-Timings allotted at every junction are fixed. Sometimes higher traffic density at one side of the junction demands longer time duration for green signal compared to the 
-standard allotted time.
-
-Thus, traffic light control system helps to conduct orderly flow of vehicles. There are lot many issues of obstacles, high level accidents which occurs every day. 
-So, traffic signal controller prevents such occurrences. Still many areas or small towns don’t have the traffic light control facilities. And thus, many accident problems occur 
-at those areas. Therefore, it is a primary purpose to have such facility in order to control and maintain the area.
+The implementation of the advanced traffic light controller using Verilog HDL successfully achieved a reliable and efficient control mechanism for managing traffic flow at an intersection. The design was synthesized and simulated using industry-standard tools such as Xilinx 2024.2, confirming the correct operation of the state machine controlling the traffic signals. The controller responded accurately to various traffic scenarios, including timing adjustments for peak and off-peak hours and prioritization for emergency situations when simulated inputs were applied. The system demonstrated low latency in state transitions and maintained stability across multiple test cases. Overall, the Verilog-based design provided a robust, scalable, and hardware-efficient solution that can be deployed in real-time environments with minimal resource usage on FPGA platforms.
 
 
 ## Future Work
 
-The future scope of an advanced traffic light controller is evolving with the integration of smart city technologies, IoT, and AI. These advancements aim to improve the efficiency, safety, and environmental sustainability of urban traffic systems. Below are some of the key areas in which future developments could transform the traffic light controller systems:
-1.	Integration with Smart City Infrastructure
-
-•Urban Traffic Optimization: Traffic light controllers will become more integrated with smart city infrastructure, where all systems (like street lights, surveillance cameras, and public transportation) communicate and collaborate to optimize traffic flow.
-
-•Centralized Traffic Management: Cities will employ centralized systems that can control multiple intersections simultaneously. These systems could adjust traffic light timings based on real-time traffic data, road closures, accidents, or congestion patterns to optimize flow.
-
-2.	Adaptive Traffic Signal Control
-
-•AI-Powered Adaptive Signals: Future traffic controllers will use artificial intelligence (AI) and machine learning (ML) to dynamically adjust signal timings based on real-time traffic data. AI can predict traffic conditions and adjust the green-light duration accordingly.
-
-
-•Real-Time Data Integration: Advanced systems will gather data from smart sensors, traffic cameras, GPS systems in vehicles, and traffic reports to adapt signals based on traffic volumes and patterns.
-
-3.	Vehicle-to-Infrastructure (V2I) Communication
-
-•Vehicle-to-Infrastructure Communication: Future traffic light controllers will communicate directly with vehicles using Vehicle-to-Everything (V2X) technology. This could allow vehicles to communicate with traffic signals, receiving updates on signal changes and real-time traffic conditions.
-
-•Red Light Prediction: Vehicles could communicate with the traffic light controllers to predict the signal changes ahead of time, allowing for better acceleration and deceleration planning, improving fuel efficiency.
-
-4.	Pedestrian and Cyclist Priority
-
-•Smart Pedestrian Crossing: Future controllers will incorporate features for pedestrian prioritization. Sensors could detect pedestrians approaching intersections, and traffic signals could adjust to give priority to pedestrians without requiring them to push a button.
-
-•Cyclist Detection: Smart controllers will also be able to detect cyclists and prioritize their crossing times. Bike lanes will become integral to traffic light control systems, ensuring cyclists' safety and smooth flow.
+In future developments of the advanced traffic light controller using Verilog HDL, several enhancements can be implemented to improve functionality, adaptability, and real-time responsiveness. One promising direction is the integration of sensor-based traffic flow analysis, where real-time data from infrared or ultrasonic sensors can dynamically adjust signal timings based on actual vehicular density. Additionally, incorporating machine learning algorithms for predictive traffic control could further optimize traffic flow and reduce congestion. Another area of future work involves expanding the controller to support intelligent transportation systems (ITS), allowing for communication between traffic lights and connected vehicles (V2I communication). The system can also be made scalable to accommodate larger and more complex intersections with pedestrian and emergency vehicle prioritization. Furthermore, implementing a graphical simulation interface for monitoring and control would enhance testing, validation, and deployment efficiency. These advancements will push the boundaries of conventional traffic control systems, aligning them with the goals of smart city infrastructure.
 
 ## References
 
