@@ -53,14 +53,14 @@ In this project, Verilog HDL was chosen because it’s used for synthesis of log
 
 ### Directions Considered
 
-![directions](https://user-images.githubusercontent.com/83152452/131366734-67c76e3c-b53d-49ca-a5ba-fb058d19d578.png)
+![directions](https://github.com/praveen132-cpu/TRAFFIC-LIGHT-CONTROLLER-USING-VERILOG-HDL/blob/main/methodology.png?raw=true)
 
 The directions, M1, MT, M2, S, that is been considered for analysis of our problem is shown in the figure. And, the problem statement is explained in the figure. 
 Six states, S1, S2, S3, S4, S5, S6 are taken into consideration and state diagram, state table is made using the following logic explained in the figure. 
 
 ### Problem Statement
 
-![Logic_Diagram](https://user-images.githubusercontent.com/83152452/131366783-8c025386-8011-4ef9-a766-d0a07e4244ac.png)
+![Logic_Diagram](https://github.com/praveen132-cpu/TRAFFIC-LIGHT-CONTROLLER-USING-VERILOG-HDL/blob/main/problem%20statement.png?raw=true)
 
 - Green light indicates that there is no traffic and there is easy flow of vehicles in that route/direction. 
 - Red light indicates that there is a traffic jam and that route is blocked for the vehicles to move and, 
@@ -72,7 +72,7 @@ and TY(from S6 to S1) and the cycle continues.
 
 ### State Diagram
 
-![State_Diagram](https://user-images.githubusercontent.com/83152452/131366795-bc45473d-4398-47bb-bad9-a520a779c8bc.png)
+![State_Diagram](https://github.com/praveen132-cpu/TRAFFIC-LIGHT-CONTROLLER-USING-VERILOG-HDL/blob/main/state%20diagram.jpg?raw=true)
 
 In Figure, The time delays are considered as follows :
 
@@ -87,7 +87,7 @@ it will move to S3 state, and so on. After TY seconds, in state S6, it will go b
 
 ### State Table
 
-![StateTable](https://user-images.githubusercontent.com/83152452/131366804-309b6e9a-4c9c-442b-8753-281a933254f6.png)
+![StateTable](https://github.com/praveen132-cpu/TRAFFIC-LIGHT-CONTROLLER-USING-VERILOG-HDL/blob/main/state%20table.png?raw=true)
 
 In Figure, 
 - R = RED, 
